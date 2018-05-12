@@ -1,0 +1,29 @@
+_repo: Donald-and-Dorothy_28856
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28856-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Dodge, Mary Mapes
+    alias: Dodge, M. E. (Mary Elizabeth)
+    birthdate: 1830
+    deathdate: 1905
+    gutenberg_agent_id: '402'
+    url: http://www.gutenberg.org/2009/agents/402
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Mapes_Dodge
+description: ''
+gutenberg_issued: '2009-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family -- Juvenile fiction'
+title: Donald and Dorothy
+url: http://www.gutenberg.org/ebooks/28856
